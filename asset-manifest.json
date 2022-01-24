@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/space-x-react/static/css/main.11ed5c63.css",
+    "main.js": "/space-x-react/static/js/main.525c3865.js",
+    "static/js/787.69eb2f13.chunk.js": "/space-x-react/static/js/787.69eb2f13.chunk.js",
+    "static/media/giphy.gif": "/space-x-react/static/media/giphy.a098baa839670e9995ae.gif",
+    "index.html": "/space-x-react/index.html",
+    "main.11ed5c63.css.map": "/space-x-react/static/css/main.11ed5c63.css.map",
+    "main.525c3865.js.map": "/space-x-react/static/js/main.525c3865.js.map",
+    "787.69eb2f13.chunk.js.map": "/space-x-react/static/js/787.69eb2f13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ed5c63.css",
+    "static/js/main.525c3865.js"
+  ]
+}
