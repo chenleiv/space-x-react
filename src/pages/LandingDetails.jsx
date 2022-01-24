@@ -52,8 +52,8 @@ export const LandingDetails = (props) => {
         </div>
         <div className='item-video'>
           <iframe
-            width='500'
-            height='280'
+            // width='500'
+            // height='280'
             frameBorder='0'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
             src={`https://www.youtube.com/embed/` + landing.links.youtube_id}></iframe>
